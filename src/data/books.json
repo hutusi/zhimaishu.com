@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "status": "Available",
+    "cover": "https://placehold.co/400x600?text=The+Great+Gatsby",
+    "description": "A classic novel of the Jazz Age."
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "status": "Checked Out",
+    "cover": "https://placehold.co/400x600?text=To+Kill+a+Mockingbird",
+    "description": "The story of a young lawyer in the Deep South."
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "status": "Available",
+    "cover": "https://placehold.co/400x600?text=1984",
+    "description": "A dystopian novel set in a totalitarian society."
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "status": "Available",
+    "cover": "https://placehold.co/400x600?text=Pride+and+Prejudice",
+    "description": "A romantic novel of manners."
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "status": "Available",
+    "cover": "https://placehold.co/400x600?text=Catcher+in+the+Rye",
+    "description": "A story about teenage angst and alienation."
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "status": "Checked Out",
+    "cover": "https://placehold.co/400x600?text=The+Hobbit",
+    "description": "A fantasy novel about a hobbit's adventure."
+  }
+]
