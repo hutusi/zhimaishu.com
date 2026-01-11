@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "title": "小王子",
+    "titleEn": "The Little Prince",
+    "author": "安托万·德·圣-埃克苏佩里",
+    "authorEn": "Antoine de Saint-Exupéry",
+    "cover": "/covers/little-prince.jpg",
+    "status": "available",
+    "description": "一本关于爱与责任的童话故事，讲述了一个来自小行星的王子的奇幻旅程。",
+    "descriptionEn": "A tale about love and responsibility, following the journey of a prince from a tiny asteroid."
+  },
+  {
+    "id": "2",
+    "title": "活着",
+    "titleEn": "To Live",
+    "author": "余华",
+    "authorEn": "Yu Hua",
+    "cover": "/covers/to-live.jpg",
+    "status": "borrowed",
+    "description": "一个普通农民福贵的一生，见证了中国近代历史的沧桑巨变。",
+    "descriptionEn": "The life story of Fugui, an ordinary farmer who witnesses the turbulent changes in modern Chinese history."
+  },
+  {
+    "id": "3",
+    "title": "百年孤独",
+    "titleEn": "One Hundred Years of Solitude",
+    "author": "加西亚·马尔克斯",
+    "authorEn": "Gabriel García Márquez",
+    "cover": "/covers/solitude.jpg",
+    "status": "available",
+    "description": "布恩迪亚家族七代人的传奇故事，魔幻现实主义的巅峰之作。",
+    "descriptionEn": "The epic tale of seven generations of the Buendía family, a masterpiece of magical realism."
+  },
+  {
+    "id": "4",
+    "title": "追风筝的人",
+    "titleEn": "The Kite Runner",
+    "author": "卡勒德·胡赛尼",
+    "authorEn": "Khaled Hosseini",
+    "cover": "/covers/kite-runner.jpg",
+    "status": "available",
+    "description": "一个关于友谊、背叛与救赎的故事，背景设在阿富汗的动荡年代。",
+    "descriptionEn": "A story of friendship, betrayal, and redemption set against the backdrop of Afghanistan's turbulent history."
+  },
+  {
+    "id": "5",
+    "title": "三体",
+    "titleEn": "The Three-Body Problem",
+    "author": "刘慈欣",
+    "authorEn": "Liu Cixin",
+    "cover": "/covers/three-body.jpg",
+    "status": "borrowed",
+    "description": "地球文明与三体文明之间的史诗对决，中国科幻文学的里程碑。",
+    "descriptionEn": "An epic confrontation between Earth and the Trisolaran civilization, a milestone in Chinese science fiction."
+  },
+  {
+    "id": "6",
+    "title": "挪威的森林",
+    "titleEn": "Norwegian Wood",
+    "author": "村上春树",
+    "authorEn": "Haruki Murakami",
+    "cover": "/covers/norwegian-wood.jpg",
+    "status": "available",
+    "description": "一段发生在1960年代日本的青春爱情故事，充满怀旧与忧伤。",
+    "descriptionEn": "A nostalgic and melancholic love story set in 1960s Japan."
+  },
+  {
+    "id": "7",
+    "title": "人类简史",
+    "titleEn": "Sapiens: A Brief History of Humankind",
+    "author": "尤瓦尔·赫拉利",
+    "authorEn": "Yuval Noah Harari",
+    "cover": "/covers/sapiens.jpg",
+    "status": "available",
+    "description": "从认知革命到现代社会，一部宏大的人类发展史。",
+    "descriptionEn": "A grand narrative of human development from the Cognitive Revolution to the modern age."
+  },
+  {
+    "id": "8",
+    "title": "围城",
+    "titleEn": "Fortress Besieged",
+    "author": "钱锺书",
+    "authorEn": "Qian Zhongshu",
+    "cover": "/covers/fortress.jpg",
+    "status": "available",
+    "description": "一部讽刺小说的杰作，描绘了1940年代中国知识分子的生活与困境。",
+    "descriptionEn": "A masterpiece of satirical fiction depicting the lives and dilemmas of Chinese intellectuals in the 1940s."
+  }
+]
