@@ -38,10 +38,10 @@ export default function Header() {
             </Link>
             <div className="w-px h-5 bg-stone-200" />
             <Link
-              href="/catalog"
+              href="/about"
               className="text-slate-600 hover:text-slate-900 transition-colors text-sm tracking-wide"
             >
-              Catalog
+              关于
             </Link>
           </div>
 
@@ -91,6 +91,13 @@ export default function Header() {
               onClick={() => setIsMenuOpen(false)}
             >
               书目 Catalog
+            </Link>
+            <Link
+              href="/about"
+              className="block text-slate-600 hover:text-slate-900 transition-colors py-1"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              关于 About
             </Link>
           </div>
         )}
